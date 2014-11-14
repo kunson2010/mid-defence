@@ -1,0 +1,459 @@
+./t.out	I/C I/C
+./t.out	I/C ii/C
+./t.out	I/C iii/C
+./t.out	I/C IV/C
+./t.out	I/C V/C
+./t.out	I/C vi/C
+./t.out	I/C vii*/C
+./t.out	I/C I/C 
+./t.out	ii/C I/C 
+./t.out	iii/C I/C 
+./t.out	IV/C I/C 
+./t.out	V/C I/C 
+./t.out	vi/C I/C 
+./t.out	vii*/C I/C 
+
+
+./t.out	i/c i/c
+./t.out	i/c ii*/c
+./t.out	i/c III/c
+./t.out	i/c iv/c
+./t.out	i/c v/c
+./t.out	i/c VI/c
+./t.out	i/c VII/c
+./t.out	i/c I/c 
+./t.out	ii*/c I/c 
+./t.out	III/c I/c 
+./t.out	iv/c I/c 
+./t.out	v/c I/c 
+./t.out	VI/c I/c 
+./t.out	VII/c I/c 
+
+./t.out	I/C_sharp I/C_sharp
+./t.out	I/C_sharp ii/C_sharp
+./t.out	I/C_sharp iii/C_sharp
+./t.out	I/C_sharp IV/C_sharp
+./t.out	I/C_sharp V/C_sharp
+./t.out	I/C_sharp vi/C_sharp
+./t.out	I/C_sharp vii*/C_sharp
+./t.out	I/C_sharp I/C_sharp 
+./t.out	ii/C_sharp I/C_sharp 
+./t.out	iii/C_sharp I/C_sharp 
+./t.out	IV/C_sharp I/C_sharp 
+./t.out	V/C_sharp I/C_sharp 
+./t.out	vi/C_sharp I/C_sharp 
+./t.out	vii*/C_sharp I/C_sharp 
+
+./t.out	i/c_sharp i/c_sharp
+./t.out	i/c_sharp ii*/c_sharp
+./t.out	i/c_sharp III/c_sharp
+./t.out	i/c_sharp iv/c_sharp
+./t.out	i/c_sharp v/c_sharp
+./t.out	i/c_sharp VI/c_sharp
+./t.out	i/c_sharp VII/c_sharp
+./t.out	i/c_sharp I/c_sharp 
+./t.out	ii*/c_sharp I/c_sharp 
+./t.out	III/c_sharp I/c_sharp 
+./t.out	iv/c_sharp I/c_sharp 
+./t.out	v/c_sharp I/c_sharp 
+./t.out	VI/c_sharp I/c_sharp 
+./t.out	VII/c_sharp I/c_sharp 
+
+./t.out	I/D_flat I/D_flat
+./t.out	I/D_flat ii/D_flat
+./t.out	I/D_flat iii/D_flat
+./t.out	I/D_flat IV/D_flat
+./t.out	I/D_flat V/D_flat
+./t.out	I/D_flat vi/D_flat
+./t.out	I/D_flat vii*/D_flat
+./t.out	I/D_flat I/D_flat 
+./t.out	ii/D_flat I/D_flat 
+./t.out	iii/D_flat I/D_flat 
+./t.out	IV/D_flat I/D_flat 
+./t.out	V/D_flat I/D_flat 
+./t.out	vi/D_flat I/D_flat 
+./t.out	vii*/D_flat I/D_flat 
+
+
+./t.out	i/d_flat i/d_flat
+./t.out	i/d_flat ii*/d_flat
+./t.out	i/d_flat III/d_flat
+./t.out	i/d_flat iv/d_flat
+./t.out	i/d_flat v/d_flat
+./t.out	i/d_flat VI/d_flat
+./t.out	i/d_flat VII/d_flat
+./t.out	i/d_flat I/d_flat 
+./t.out	ii*/d_flat I/d_flat 
+./t.out	III/d_flat I/d_flat 
+./t.out	iv/d_flat I/d_flat 
+./t.out	v/d_flat I/d_flat 
+./t.out	VI/d_flat I/d_flat 
+./t.out	VII/d_flat I/d_flat 
+
+
+./t.out	I/D I/D
+./t.out	I/D ii/D
+./t.out	I/D iii/D
+./t.out	I/D IV/D
+./t.out	I/D V/D
+./t.out	I/D vi/D
+./t.out	I/D vii*/D
+./t.out	I/D I/D 
+./t.out	ii/D I/D 
+./t.out	iii/D I/D 
+./t.out	IV/D I/D 
+./t.out	V/D I/D 
+./t.out	vi/D I/D 
+./t.out	vii*/D I/D 
+
+
+./t.out	i/d i/d
+./t.out	i/d ii*/d
+./t.out	i/d III/d
+./t.out	i/d iv/d
+./t.out	i/d v/d
+./t.out	i/d VI/d
+./t.out	i/d VII/d
+./t.out	i/d I/d 
+./t.out	ii*/d I/d 
+./t.out	III/d I/d 
+./t.out	iv/d I/d 
+./t.out	v/d I/d 
+./t.out	VI/d I/d 
+./t.out	VII/d I/d 
+
+
+./t.out	I/E_flat I/E_flat
+./t.out	I/E_flat ii/E_flat
+./t.out	I/E_flat iii/E_flat
+./t.out	I/E_flat IV/E_flat
+./t.out	I/E_flat V/E_flat
+./t.out	I/E_flat vi/E_flat
+./t.out	I/E_flat vii*/E_flat
+./t.out	I/E_flat I/E_flat 
+./t.out	ii/E_flat I/E_flat 
+./t.out	iii/E_flat I/E_flat 
+./t.out	IV/E_flat I/E_flat 
+./t.out	V/E_flat I/E_flat 
+./t.out	vi/E_flat I/E_flat 
+./t.out	vii*/E_flat I/E_flat 
+
+
+./t.out	i/e_flat i/e_flat
+./t.out	i/e_flat ii*/e_flat
+./t.out	i/e_flat III/e_flat
+./t.out	i/e_flat iv/e_flat
+./t.out	i/e_flat v/e_flat
+./t.out	i/e_flat VI/e_flat
+./t.out	i/e_flat VII/e_flat
+./t.out	i/e_flat I/e_flat 
+./t.out	ii*/e_flat I/e_flat 
+./t.out	III/e_flat I/e_flat 
+./t.out	iv/e_flat I/e_flat 
+./t.out	v/e_flat I/e_flat 
+./t.out	VI/e_flat I/e_flat 
+./t.out	VII/e_flat I/e_flat 
+
+
+./t.out	I/E I/E
+./t.out	I/E ii/E
+./t.out	I/E iii/E
+./t.out	I/E IV/E
+./t.out	I/E V/E
+./t.out	I/E vi/E
+./t.out	I/E vii*/E
+./t.out	I/E I/E 
+./t.out	ii/E I/E 
+./t.out	iii/E I/E 
+./t.out	IV/E I/E 
+./t.out	V/E I/E 
+./t.out	vi/E I/E 
+./t.out	vii*/E I/E 
+
+
+./t.out	i/e_flat i/e_flat
+./t.out	i/e_flat ii*/e_flat
+./t.out	i/e_flat III/e_flat
+./t.out	i/e_flat iv/e_flat
+./t.out	i/e_flat v/e_flat
+./t.out	i/e_flat VI/e_flat
+./t.out	i/e_flat VII/e_flat
+./t.out	i/e_flat I/e_flat 
+./t.out	ii*/e_flat I/e_flat 
+./t.out	III/e_flat I/e_flat 
+./t.out	iv/e_flat I/e_flat 
+./t.out	v/e_flat I/e_flat 
+./t.out	VI/e_flat I/e_flat 
+./t.out	VII/e_flat I/e_flat 
+
+
+./t.out	i/F i/F
+./t.out	i/F ii*/F
+./t.out	i/F III/F
+./t.out	i/F iv/F
+./t.out	i/F v/F
+./t.out	i/F VI/F
+./t.out	i/F VII/F
+./t.out	i/F I/F 
+./t.out	ii*/F I/F 
+./t.out	III/F I/F 
+./t.out	iv/F I/F 
+./t.out	v/F I/F 
+./t.out	VI/F I/F 
+./t.out	VII/F I/F 
+
+
+./t.out	i/f i/f
+./t.out	i/f ii*/f
+./t.out	i/f III/f
+./t.out	i/f iv/f
+./t.out	i/f v/f
+./t.out	i/f VI/f
+./t.out	i/f VII/f
+./t.out	i/f I/f 
+./t.out	ii*/f I/f 
+./t.out	III/f I/f 
+./t.out	iv/f I/f 
+./t.out	v/f I/f 
+./t.out	VI/f I/f 
+./t.out	VII/f I/f 
+
+
+./t.out	I/F_sharp I/F_sharp
+./t.out	I/F_sharp ii/F_sharp
+./t.out	I/F_sharp iii/F_sharp
+./t.out	I/F_sharp IV/F_sharp
+./t.out	I/F_sharp V/F_sharp
+./t.out	I/F_sharp vi/F_sharp
+./t.out	I/F_sharp vii*/F_sharp
+./t.out	I/F_sharp I/F_sharp 
+./t.out	ii/F_sharp I/F_sharp 
+./t.out	iii/F_sharp I/F_sharp 
+./t.out	IV/F_sharp I/F_sharp 
+./t.out	V/F_sharp I/F_sharp 
+./t.out	vi/F_sharp I/F_sharp 
+./t.out	vii*/F_sharp I/F_sharp 
+
+
+./t.out	i/f_sharp i/f_sharp
+./t.out	i/f_sharp ii*/f_sharp
+./t.out	i/f_sharp III/f_sharp
+./t.out	i/f_sharp iv/f_sharp
+./t.out	i/f_sharp v/f_sharp
+./t.out	i/f_sharp VI/f_sharp
+./t.out	i/f_sharp VII/f_sharp
+./t.out	i/f_sharp I/f_sharp 
+./t.out	ii*/f_sharp I/f_sharp 
+./t.out	III/f_sharp I/f_sharp 
+./t.out	iv/f_sharp I/f_sharp 
+./t.out	v/f_sharp I/f_sharp 
+./t.out	VI/f_sharp I/f_sharp 
+./t.out	VII/f_sharp I/f_sharp 
+
+
+./t.out	I/G_flat I/G_flat
+./t.out	I/G_flat ii/G_flat
+./t.out	I/G_flat iii/G_flat
+./t.out	I/G_flat IV/G_flat
+./t.out	I/G_flat V/G_flat
+./t.out	I/G_flat vi/G_flat
+./t.out	I/G_flat vii*/G_flat
+./t.out	I/G_flat I/G_flat 
+./t.out	ii/G_flat I/G_flat 
+./t.out	iii/G_flat I/G_flat 
+./t.out	IV/G_flat I/G_flat 
+./t.out	V/G_flat I/G_flat 
+./t.out	vi/G_flat I/G_flat 
+./t.out	vii*/G_flat I/G_flat 
+
+
+./t.out	i/g_flat i/g_flat
+./t.out	i/g_flat ii*/g_flat
+./t.out	i/g_flat III/g_flat
+./t.out	i/g_flat iv/g_flat
+./t.out	i/g_flat v/g_flat
+./t.out	i/g_flat VI/g_flat
+./t.out	i/g_flat VII/g_flat
+./t.out	i/g_flat I/g_flat 
+./t.out	ii*/g_flat I/g_flat 
+./t.out	III/g_flat I/g_flat 
+./t.out	iv/g_flat I/g_flat 
+./t.out	v/g_flat I/g_flat 
+./t.out	VI/g_flat I/g_flat 
+./t.out	VII/g_flat I/g_flat 
+
+
+./t.out	I/G I/G
+./t.out	I/G ii/G
+./t.out	I/G iii/G
+./t.out	I/G IV/G
+./t.out	I/G V/G
+./t.out	I/G vi/G
+./t.out	I/G vii*/G
+./t.out	I/G I/G 
+./t.out	ii/G I/G 
+./t.out	iii/G I/G 
+./t.out	IV/G I/G 
+./t.out	V/G I/G 
+./t.out	vi/G I/G 
+./t.out	vii*/G I/G 
+
+
+./t.out	i/g i/g
+./t.out	i/g ii*/g
+./t.out	i/g III/g
+./t.out	i/g iv/g
+./t.out	i/g v/g
+./t.out	i/g VI/g
+./t.out	i/g VII/g
+./t.out	i/g I/g 
+./t.out	ii*/g I/g 
+./t.out	III/g I/g 
+./t.out	iv/g I/g 
+./t.out	v/g I/g 
+./t.out	VI/g I/g 
+./t.out	VII/g I/g 
+
+
+./t.out	I/A_flat I/A_flat
+./t.out	I/A_flat ii/A_flat
+./t.out	I/A_flat iii/A_flat
+./t.out	I/A_flat IV/A_flat
+./t.out	I/A_flat V/A_flat
+./t.out	I/A_flat vi/A_flat
+./t.out	I/A_flat vii*/A_flat
+./t.out	I/A_flat I/A_flat 
+./t.out	ii/A_flat I/A_flat 
+./t.out	iii/A_flat I/A_flat 
+./t.out	IV/A_flat I/A_flat 
+./t.out	V/A_flat I/A_flat 
+./t.out	vi/A_flat I/A_flat 
+./t.out	vii*/A_flat I/A_flat 
+
+
+./t.out	i/a_flat i/a_flat
+./t.out	i/a_flat ii*/a_flat
+./t.out	i/a_flat III/a_flat
+./t.out	i/a_flat iv/a_flat
+./t.out	i/a_flat v/a_flat
+./t.out	i/a_flat VI/a_flat
+./t.out	i/a_flat VII/a_flat
+./t.out	i/a_flat I/a_flat 
+./t.out	ii*/a_flat I/a_flat 
+./t.out	III/a_flat I/a_flat 
+./t.out	iv/a_flat I/a_flat 
+./t.out	v/a_flat I/a_flat 
+./t.out	VI/a_flat I/a_flat 
+./t.out	VII/a_flat I/a_flat 
+
+
+./t.out	I/A I/A
+./t.out	I/A ii/A
+./t.out	I/A iii/A
+./t.out	I/A IV/A
+./t.out	I/A V/A
+./t.out	I/A vi/A
+./t.out	I/A vii*/A
+./t.out	I/A I/A 
+./t.out	ii/A I/A 
+./t.out	iii/A I/A 
+./t.out	IV/A I/A 
+./t.out	V/A I/A 
+./t.out	vi/A I/A 
+./t.out	vii*/A I/A 
+
+
+./t.out	i/a i/a
+./t.out	i/a ii*/a
+./t.out	i/a III/a
+./t.out	i/a iv/a
+./t.out	i/a v/a
+./t.out	i/a VI/a
+./t.out	i/a VII/a
+./t.out	i/a I/a 
+./t.out	ii*/a I/a 
+./t.out	III/a I/a 
+./t.out	iv/a I/a 
+./t.out	v/a I/a 
+./t.out	VI/a I/a 
+./t.out	VII/a I/a 
+
+
+./t.out	I/B_flat I/B_flat
+./t.out	I/B_flat ii/B_flat
+./t.out	I/B_flat iii/B_flat
+./t.out	I/B_flat IV/B_flat
+./t.out	I/B_flat V/B_flat
+./t.out	I/B_flat vi/B_flat
+./t.out	I/B_flat vii*/B_flat
+./t.out	I/B_flat I/B_flat 
+./t.out	ii/B_flat I/B_flat 
+./t.out	iii/B_flat I/B_flat 
+./t.out	IV/B_flat I/B_flat 
+./t.out	V/B_flat I/B_flat 
+./t.out	vi/B_flat I/B_flat 
+./t.out	vii*/B_flat I/B_flat 
+
+
+./t.out	i/b_flat i/b_flat
+./t.out	i/b_flat ii*/b_flat
+./t.out	i/b_flat III/b_flat
+./t.out	i/b_flat iv/b_flat
+./t.out	i/b_flat v/b_flat
+./t.out	i/b_flat VI/b_flat
+./t.out	i/b_flat VII/b_flat
+./t.out	i/b_flat I/b_flat 
+./t.out	ii*/b_flat I/b_flat 
+./t.out	III/b_flat I/b_flat 
+./t.out	iv/b_flat I/b_flat 
+./t.out	v/b_flat I/b_flat 
+./t.out	VI/b_flat I/b_flat 
+./t.out	VII/b_flat I/b_flat 
+
+
+./t.out	I/B I/B
+./t.out	I/B ii/B
+./t.out	I/B iii/B
+./t.out	I/B IV/B
+./t.out	I/B V/B
+./t.out	I/B vi/B
+./t.out	I/B vii*/B
+./t.out	I/B I/B 
+./t.out	ii/B I/B 
+./t.out	iii/B I/B 
+./t.out	IV/B I/B 
+./t.out	V/B I/B 
+./t.out	vi/B I/B 
+./t.out	vii*/B I/B 
+
+
+./t.out	i/b i/b
+./t.out	i/b ii*/b
+./t.out	i/b III/b
+./t.out	i/b iv/b
+./t.out	i/b v/b
+./t.out	i/b VI/b
+./t.out	i/b VII/b
+./t.out	i/b I/b 
+./t.out	ii*/b I/b 
+./t.out	III/b I/b 
+./t.out	iv/b I/b 
+./t.out	v/b I/b 
+./t.out	VI/b I/b 
+./t.out	VII/b I/b 
+
+
+./t.out	I/C_flat I/C_flat
+./t.out	I/C_flat ii/C_flat
+./t.out	I/C_flat iii/C_flat
+./t.out	I/C_flat IV/C_flat
+./t.out	I/C_flat V/C_flat
+./t.out	I/C_flat vi/C_flat
+./t.out	I/C_flat vii*/C_flat
+./t.out	I/C_flat I/C_flat 
+./t.out	ii/C_flat I/C_flat 
+./t.out	iii/C_flat I/C_flat 
+./t.out	IV/C_flat I/C_flat 
+./t.out	V/C_flat I/C_flat 
+./t.out	vi/C_flat I/C_flat 
+./t.out	vii*/C_flat I/C_flat 
